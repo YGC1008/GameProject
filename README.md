@@ -1,2 +1,2 @@
 # GameProject
-El programa usa el archery target que hicimos en la asignacion #4 y le decimos al usuario que dispare 5 "flechas" que en realidad son puntos y dependen donde caigan en el target les dara una puntuacion distinta la cual se acumula y al final le da una puntuacion.
+El programa es el clasico juego de "tic tac toe" donde sea juegan dos jugadores. El primero hace click en el recuadro donde quiera poner la "X" uego es el turno de el jugador 2 para hacer un circulo. El primeron en hacer tres "X" o "O" gana el juego.
